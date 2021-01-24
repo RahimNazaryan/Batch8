@@ -6,5 +6,6 @@ public class Main {
         int a = 10;
         System.out.println(a);
         System.out.println("Hello Batch8");
+        System.out.println("HI");
     }
 }
